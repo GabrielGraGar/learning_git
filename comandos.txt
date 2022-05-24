@@ -16,5 +16,3 @@ COMANDOS BASICOS
 
 *  git config -- global user.email "email" Para configurar email del usuario
 *  git config -- global user.name "nombre" Para configurar nombre del usuario
-
-y ahora con otro numero telefonico para servirle mejor 7111-4343 (cortesia a papa de coka, restaurante el diamante)
